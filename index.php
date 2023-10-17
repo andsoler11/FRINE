@@ -13,7 +13,7 @@
                 <div class="owl-carousel">
                     <div class="carousel-item">
                         <div class="carousel-img">
-                            <img src="static/img/carousel-1.jpg" alt="Image">
+                            <img src="static/img/carousel-1.jpg" alt="foto desde arriba de niños jugando en el pasto">
                         </div>
                         <div class="carousel-text">
                             <h1>Transformamos vidas</h1>
@@ -27,7 +27,7 @@
                     </div>
                     <div class="carousel-item">
                         <div class="carousel-img">
-                            <img src="static/img/carousel-2.jpg" alt="Image">
+                            <img src="static/img/carousel-2.jpg" alt="Foto de niños de la fundacion frine haciendo un circulo abrazados">
                         </div>
                         <div class="carousel-text">
                             <h1>Cambia su mundo, cambia nuestro mundo</h1>
@@ -41,7 +41,7 @@
                     </div>
                     <div class="carousel-item">
                         <div class="carousel-img">
-                            <img src="static/img/carousel-3.jpg" alt="Image">
+                            <img src="static/img/carousel-3.jpg" alt="Foto de un niño pintando con pintura">
                         </div>
                         <div class="carousel-text">
                             <h1>Aprende sobre discapacidad</h1>
@@ -169,7 +169,7 @@
                     <div class="col-lg-4 col-md-6">
                         <div class="service-item">  
                             <div class="service-icon">
-                                <img src="static/img/apoyo_icon.png" alt="Image">
+                                <img src="static/img/apoyo_icon.png" alt="Logo de dos manos haciendo un corazón">
                             </div>
                             <div class="service-text">
                                 <h3>Sensibilizacion</h3>
@@ -243,7 +243,7 @@
                     <div class="col-lg-8 col-md-8">
                         <div class="team-item">
                             <div class="team-img" style="border-radius: 2rem;">
-                                <img src="static/img/equipo.jpg" alt="Team Image">
+                                <img src="static/img/equipo.jpg" alt="Foto del equipo de frine en el exterior de una casa">
                             </div>
 
                         </div>
@@ -304,7 +304,7 @@
                 <div class="owl-carousel testimonials-carousel">
                     <div class="testimonial-item">
                         <div class="testimonial-profile">
-                            <img src="static/img/woman.png" alt="Image">
+                            <img src="static/img/woman.png" alt="logo de una mujer 1">
                             <div class="testimonial-name">
                                 <h3>Isvey Pardo</h3>
                             </div>
@@ -317,7 +317,7 @@
                     </div>
                     <div class="testimonial-item">
                         <div class="testimonial-profile">
-                            <img src="static/img/woman_2.png" alt="Image">
+                            <img src="static/img/woman_2.png" alt="logo de una mujer 2">
                             <div class="testimonial-name">
                                 <h3>Adriana Robelto</h3>
                             </div>
@@ -330,7 +330,7 @@
                     </div>
                     <div class="testimonial-item">
                         <div class="testimonial-profile">
-                            <img src="static/img/woman_3.png" alt="Image">
+                            <img src="static/img/woman_3.png" alt="logo de una mujer 3">
                             <div class="testimonial-name">
                                 <h3>Liliana Riaño</h3>
                                 <!-- <p>Profession</p> -->
@@ -344,7 +344,7 @@
                     </div>
                     <div class="testimonial-item">
                         <div class="testimonial-profile">
-                            <img src="static/img/woman_4.png" alt="Image">
+                            <img src="static/img/woman_4.png" alt="logo de una mujer 4">
                             <div class="testimonial-name">
                                 <h3>Luz Marina Cortés</h3>
                                 <!-- <p>Profession</p> -->
@@ -358,7 +358,7 @@
                     </div>
                     <div class="testimonial-item">
                         <div class="testimonial-profile">
-                            <img src="static/img/woman_5.png" alt="Image">
+                            <img src="static/img/woman_5.png" alt="logo de una mujer 5">
                             <div class="testimonial-name">
                                 <h3>María Elsa Castillo</h3>
                                 <!-- <p>Profession</p> -->

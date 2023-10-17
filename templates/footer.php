@@ -34,7 +34,7 @@
                     <div class="col-lg-3 col-md-6">
                         <div class="footer-newsletter">
                             <h2>Reconocimientos</h2>
-                            <img src="static/img/ISO.png" alt="Image" style="width: 100px;">
+                            <img src="static/img/ISO.png" alt="Logo de certificación iso" style="width: 100px;">
                         </div>
                     </div>
                 </div>

@@ -134,5 +134,38 @@
         </div>
         <!-- Testimonial End -->
 
+        <!-- Testimonial Start -->
+        <div class="testimonial">
+            <div class="container">
+                <div class="section-header text-center">
+                    <p>Confianza</p>
+                    <h2>Quiénes nos apoyan</h2>
+                </div>
+                <div class="owl-carousel testimonials-carousel">
+                    <div class="testimonial-item">
+                        <div class="testimonial-text">
+                            <img src="static/img/macare.jpg" alt="Image">
+                        </div>
+                    </div>
+                    <div class="testimonial-item">
+                        <div class="testimonial-text">
+                            <img src="static/img/LOGO.jpg" alt="Image">
+                        </div>
+                    </div>
+                    <div class="testimonial-item"> 
+                        <div class="testimonial-text">
+                            <img src="static/img/liceo-chico-campestre.png" alt="Image">
+                        </div>
+                    </div>
+                    <div class="testimonial-item">
+                        <div class="testimonial-text">
+                            <img src="static/img/alimentos.png" alt="Image">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Testimonial End -->
+
 <?php require "./templates/footer.php"; ?>
 <?php require "./backend/mail.php"; ?>
