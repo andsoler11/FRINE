@@ -97,7 +97,7 @@
             <div class="col-lg-4">
                 <div class="blog-item box-shadow">
                     <div class="blog-img">
-                        <img src="static/img/apadrina.jpg" alt="Image" style="border-radius: 2rem 2rem 0px 0px; height: 29rem; object-fit: cover;">
+                        <img src="static/img/pancarta.jpg" alt="Image" style="border-radius: 2rem 2rem 0px 0px; height: 29rem; object-fit: cover;">
                     </div>
                     <div class="blog-text">
                         <h3>Apadrina</h3>
